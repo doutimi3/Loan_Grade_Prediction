@@ -1,0 +1,9 @@
+The following packages needs to be installed before running these notebooks
+
+a.  Pandas
+b.  Numpy
+c. pandas_profiling
+d.  Seaborne
+e.  Datasist
+f. scikit-learn
+g. XGBoost
