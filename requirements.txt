@@ -1,7 +1,7 @@
 Pandas
 Numpy
 pandas_profiling
-Seaborne
+seaborn
 Datasist
 scikit-learn
-XGBoost
+xgboost
